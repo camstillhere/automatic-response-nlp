@@ -1,0 +1,40 @@
+{
+	"permittedDomains":["nuix.com","nuixusg.com"],
+	"permittedAddress":["sarah.coady@nuix.com","cameron.stiller@gmail.com"],
+	"doNotReply":[],
+	"returnDate":"Monday 16th of January",
+	"nlp":{
+		"dictionary_service": "https://10.98.0.219:14420",
+		"client_id": "client_DES",
+		"authorization": "Y2xpZW50X0RFUzpwYXNzMDlzOGQwOXcx",
+		"password": "TopoL@b$99",
+		"grant_type": "password",
+		"feed_service": "https://10.98.0.219:14410",
+		"username": "admin"
+	},
+	"nlp_graphQL":{
+		"baseUrl": "https://10.98.0.219/graphql",
+		"password": "TopoL@b$99",
+		"username": "admin"
+	},
+	"directories":{
+		"in":"C:/OOO/outlookIn",
+		"out":"C:/OOO/outlookOut",
+		"debug":"C:/OOO/debug"
+	},
+	"dateSpecificFooter":{
+		"2023-01-05":"My anxiety is at an all-time high. I've turned this auto-replying bot on as I left the office on Friday... wish me luck, what could go wrong?",
+		"2023-01-06":"I've turned this auto-replying bot on as I left the office on Friday... wish me luck, what could go wrong?",
+		"2023-01-07":"My daughters birthday (turning 4) is on the 11th, my sons (turning 6) is on the 13th. Any ideas?",
+		"2023-01-08":"Off to church today, maybe mow the lawn.",
+		"2023-01-09":"My daughters birthday (turning 4) is on the 11th, my sons (turning 6) is on the 13th. Any ideas?",
+		"2023-01-10":"Eep it's my daughters birthday tomorrow. Wish me luck!",
+		"2023-01-11":"My daughter is 4 today, cake, outings, it's going to be packed.",
+		"2023-01-12":"Recovery day today from my daughters birthday... my son's birthday tomorrow. Wish me luck!",
+		"2023-01-13":"My son is 6 today, cake, outings, it's going to be packed.",
+		"2023-01-14":"Recovery day today from my sons birthday... looking forward to going back to work and having a break from family!",
+		"2023-01-15":"Off to church today, maybe mow the lawn.",
+		"2023-01-16":"I'm back today, you have probably sent this before I have woken up... I'll drop the kids off and be back later around 9ish sydney time. Will turn this bot off then."
+	},
+	"template":"C:/OOO/template.html"
+}
